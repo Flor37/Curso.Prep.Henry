@@ -1,5 +1,5 @@
 h1{
-    color:blueviolet;
+    color:peru;
 }
 
 img{
@@ -8,9 +8,9 @@ img{
 #thirdDiv{
     height: 500px;
     width: 600px;
-    background-color:darkseagreen;
+    background-color:lightseagreen;
     padding: 50px;
-    border: 10px solid goldenrod;
+    border: 10px solid lightslategrey;
 }
 
 #spanID{
