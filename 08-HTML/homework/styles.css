@@ -1,0 +1,19 @@
+h1{
+    color:blueviolet;
+}
+
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 500px;
+    width: 600px;
+    background-color:darkseagreen;
+    padding: 50px;
+    border: 10px solid goldenrod;
+}
+
+#spanID{
+    font-size: 18px;
+    margin: 50px;
+}
